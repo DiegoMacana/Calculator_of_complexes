@@ -1,4 +1,8 @@
 # Calculator_of_complexes
+Este proyecto fue diseñado por DIEGO FERNANDO MACANA NARANJO en el lenguaje Python. Para la materia CNYT (Ciencias Naturales Y Tecnología). Es una libreria que opera numeros complejos. 
+![mi primera captura](https://user-images.githubusercontent.com/59974540/75062476-def81900-54b0-11ea-91fe-57dbe6627f9f.PNG)
+
+
 Este proyecto consta de 11 funciones 
 1. suma de complejos: esta funcion suma(A,B), tiene como parametro dos duplas, que seran la representacion 
 de dos numeros comoplejos. para realizar la suma, es necesario agarrar ambas partes reales de las duplas y ambas partes imaginarias para sumarlas y crear la nueva dupla que sera la suma entre A y B.
@@ -12,3 +16,4 @@ y (1)(i)+(4i)(5) seran la parte imaginaria
 5.modulo: es la raiz de la suma de los cuadrados de ambas partes (reales e imaginarias)
 6. conjugado: tiene como parametro A, donde A es una tupla. A representa un numero imaginario, lo que hace la funcion es cambiar la parte imaginaria por su inverso aditivo. 
 7. pretty printing: tiene como parametro A donde A es una dupla que representa un numero imaginario. lo que hace la funcion es escribir realmente la expresion imaginaria. Digamos A=(2,3) entonces pretty printing(A)=2+3i
+8.carteciana: 
