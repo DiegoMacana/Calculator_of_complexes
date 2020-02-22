@@ -16,4 +16,7 @@ y (1)(i)+(4i)(5) seran la parte imaginaria
 5.modulo: es la raiz de la suma de los cuadrados de ambas partes (reales e imaginarias)
 6. conjugado: tiene como parametro A, donde A es una tupla. A representa un numero imaginario, lo que hace la funcion es cambiar la parte imaginaria por su inverso aditivo. 
 7. pretty printing: tiene como parametro A donde A es una dupla que representa un numero imaginario. lo que hace la funcion es escribir realmente la expresion imaginaria. Digamos A=(2,3) entonces pretty printing(A)=2+3i
-8.carteciana: 
+8.carteciana: devuelve la misma tupla, debido a que si se grafica (a,b) siendo a el valor en x y b el valor en y. da la representacion del vector. 
+9.polar: dado una dupla, la transformamos en magnitud y direccion, para la magnitud reciclamos la funcion modulo, y para la direccion, usamos la funcion de math.atan (tan^-1) para sacar el angulo, luego lo convierto en grados, para entenderlo mejor. 
+10. inversa: la inversa sera una fraccion donde el dividendo sera la diferencia de la parte real e imaginaria (a,b) entonces a-b, y el divisor sera la suma de los cudrados de la parte real e imaginaria.
+11. escalar X complejo: 
