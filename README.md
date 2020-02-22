@@ -3,7 +3,7 @@ Este proyecto fue diseñado por DIEGO FERNANDO MACANA NARANJO en el lenguaje Pyt
 ![mi primera captura](https://user-images.githubusercontent.com/59974540/75062476-def81900-54b0-11ea-91fe-57dbe6627f9f.PNG)
 
 
-Este proyecto consta de 11 funciones 
+Este proyecto consta de 10 funciones 
 1. suma de complejos: esta funcion suma(A,B), tiene como parametro dos duplas, que seran la representacion 
 de dos numeros comoplejos. para realizar la suma, es necesario agarrar ambas partes reales de las duplas y ambas partes imaginarias para sumarlas y crear la nueva dupla que sera la suma entre A y B.
 2. Resta de complejos: tiene los mismos procedimientos que en la suma, la diferencia es denotada cuando restamos las partes reales e imaginarias para crear la dupla resultante. 
@@ -19,4 +19,4 @@ y (1)(i)+(4i)(5) seran la parte imaginaria
 8.carteciana: devuelve la misma tupla, debido a que si se grafica (a,b) siendo a el valor en x y b el valor en y. da la representacion del vector. 
 9.polar: dado una dupla, la transformamos en magnitud y direccion, para la magnitud reciclamos la funcion modulo, y para la direccion, usamos la funcion de math.atan (tan^-1) para sacar el angulo, luego lo convierto en grados, para entenderlo mejor. 
 10. inversa: la inversa sera una fraccion donde el dividendo sera la diferencia de la parte real e imaginaria (a,b) entonces a-b, y el divisor sera la suma de los cudrados de la parte real e imaginaria.
-11. escalar X complejo: 
+
