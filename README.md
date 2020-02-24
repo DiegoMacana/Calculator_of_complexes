@@ -31,3 +31,7 @@ y (1)(i)+(4i)(5) seran la parte imaginaria
 
 10. inversa: la inversa sera una fraccion donde el dividendo sera la diferencia de la parte real e imaginaria (a,b) entonces a-b, y el divisor sera la suma de los cudrados de la parte real e imaginaria.
 
+Adjunto las pruebas en donde se evaluan duplas con su respectiva respuesta. 
+![3](https://user-images.githubusercontent.com/59974540/75163213-d8ee7c00-56ec-11ea-910f-8b68eacaeb17.PNG)
+se evidencia que toco corre de maravilla. 
+
