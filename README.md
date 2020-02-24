@@ -1,6 +1,9 @@
 # Calculator_of_complexes
+
 Este proyecto fue diseñado por DIEGO FERNANDO MACANA NARANJO en el lenguaje Python. Para la materia CNYT (Ciencias Naturales Y Tecnología). Es una libreria que opera numeros complejos. 
-![mi primera captura](https://user-images.githubusercontent.com/59974540/75062476-def81900-54b0-11ea-91fe-57dbe6627f9f.PNG)
+
+![1](https://user-images.githubusercontent.com/59974540/75162582-c32c8700-56eb-11ea-9d4e-2e9f20ebb371.PNG)
+![2](https://user-images.githubusercontent.com/59974540/75162615-cde71c00-56eb-11ea-9c98-03d48c4d3854.PNG)
 
 Este proyecto consta de 10 funciones 
 
